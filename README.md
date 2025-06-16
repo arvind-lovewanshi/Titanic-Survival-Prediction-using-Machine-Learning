@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction-using-Machine-Learning
-This project predicts passenger survival on the Titanic using machine learning models like Logistic Regression and Decision Tree Classifier, based on the famous Kaggle Titanic dataset.
+A machine learning project that predicts passenger survival on the Titanic using models like Logistic Regression and Decision Tree. Includes data preprocessing, EDA, and performance evaluation based on the Titanic dataset from Kaggle.
